@@ -273,7 +273,7 @@
     <GoodsType>Наушники</GoodsType>
     <Title>Наушники Sony WH-1000XM5, белый</Title>
     <Description><![CDATA[<p><strong>💰 САМОВЫВОЗ В МОСКВЕ — СКИДКА 4%!</strong></p><p>Новый оригинальный товар в заводской упаковке, в наличии. Цена актуальна, гарантия 12 месяцев, отправляем в течение суток. Можно заказать с Авито Доставкой или забрать самовывозом со скидкой 4%.</p><p>Есть вопросы по товару, комплектации или наличию? Напишите в чат, ответим в течение нескольких минут.</p><p><strong>✔ Только оригинальные товары.</strong> Новые, в заводской упаковке, цена актуальная.</p><p><strong>✔ Гарантия 12 месяцев</strong> на всю технику.</p><p><strong>🚚 Доставка через Авито Доставку.</strong><br />Отправляем в течение суток в пункты выдачи Авито, Яндекс и СДЭК. Почтой России и в другие пункты не отправляем.</p><p><strong>💰💰💰 САМОВЫВОЗ — СКИДКА 4% 💰💰💰</strong><br /><strong>📍 Москва, ул. Барклая, 8, 4 этаж, офис 498 (метро Багратионовская).</strong><br />Напишите нам заранее, и мы подготовим заказ к вашему приезду.</p><p>Магазин «По честному»: оригинальная техника, честные цены и понятные условия. Пишите, ответим быстро и поможем с выбором.</p>]]></Description>
-    <Price>20270</Price>
+    <Price>20894</Price>
     <Address>Москва, улица Баркла, дом 8, офис 498</Address>
     <Images>
     <Image url="https://po4estnomu.ru/pictures/product/big/7725_big.jpg"/>
@@ -1801,6 +1801,40 @@
   <HeightForDelivery>10</HeightForDelivery>
   </Ad>
   <Ad>
+    <Id>new-07191</Id>
+    <AvitoId>8449304846</AvitoId>
+    <Category>Аудио и видео</Category>
+    <GoodsType>Наушники</GoodsType>
+    <Title>Наушники Samsung Galaxy Buds4 White</Title>
+    <Description><![CDATA[<p><strong>💰 САМОВЫВОЗ В МОСКВЕ — СКИДКА 4%!</strong></p><p>Новый оригинальный товар в заводской упаковке, в наличии. Цена актуальна, гарантия 12 месяцев, отправляем в течение суток. Можно заказать с Авито Доставкой или забрать самовывозом со скидкой 4%.</p><p>Есть вопросы по товару, комплектации или наличию? Напишите в чат, ответим в течение нескольких минут.</p><p><strong>✔ Только оригинальные товары.</strong> Новые, в заводской упаковке, цена актуальная.</p><p><strong>✔ Гарантия 12 месяцев</strong> на всю технику.</p><p><strong>🚚 Доставка через Авито Доставку.</strong><br />Отправляем в течение суток в пункты выдачи Авито, Яндекс и СДЭК. Почтой России и в другие пункты не отправляем.</p><p><strong>💰💰💰 САМОВЫВОЗ — СКИДКА 4% 💰💰💰</strong><br /><strong>📍 Москва, ул. Барклая, 8, 4 этаж, офис 498 (метро Багратионовская).</strong><br />Напишите нам заранее, и мы подготовим заказ к вашему приезду.</p><p>Магазин «По честному»: оригинальная техника, честные цены и понятные условия. Пишите, ответим быстро и поможем с выбором.</p>]]></Description>
+    <Price>12158</Price>
+    <Address>Москва, улица Баркла, дом 8, офис 498</Address>
+    <Images>
+    <Image url="https://po4estnomu.ru/pictures/product/big/13875_big.jpg"/>
+    <Image url="https://po4estnomu.ru/pictures/product/big/13876_big.jpg"/>
+    <Image url="https://po4estnomu.ru/pictures/product/big/13877_big.jpg"/>
+    <Image url="https://po4estnomu.ru/pictures/product/big/13878_big.jpg"/>
+    <Image url="https://po4estnomu.ru/pictures/product/big/13879_big.jpg"/>
+    <Image url="https://po4estnomu.ru/pictures/product/big/13880_big.jpg"/>
+    <Image url="https://po4estnomu.ru/pictures/product/big/13881_big.jpg"/>
+    </Images>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+  <Vendor>Samsung</Vendor>
+  <ContactPhone>+79268850783</ContactPhone>
+  <ManagerName>Алексей</ManagerName>
+  <NoDocuments>Подтверждаю</NoDocuments>
+  <TNVED>8518 30 950 0</TNVED>
+  <OKPD2>26.40.42.120</OKPD2>
+  <Delivery>
+    <Option>ПВЗ</Option>
+  </Delivery>
+  <WeightForDelivery>0,300</WeightForDelivery>
+  <LengthForDelivery>15</LengthForDelivery>
+  <WidthForDelivery>12</WidthForDelivery>
+  <HeightForDelivery>8</HeightForDelivery>
+  </Ad>
+  <Ad>
     <Id>new-06996</Id>
     <AvitoId>8286005315</AvitoId>
     <Category>Аудио и видео</Category>
@@ -2241,38 +2275,6 @@
     <AdType>Товар приобретен на продажу</AdType>
     <Condition>Новое</Condition>
   <Vendor>Apple</Vendor>
-  <ContactPhone>+79268850783</ContactPhone>
-  <ManagerName>Алексей</ManagerName>
-  <NoDocuments>Подтверждаю</NoDocuments>
-  <TNVED>8518 30 950 0</TNVED>
-  <OKPD2>26.40.42.120</OKPD2>
-  <Delivery>
-    <Option>ПВЗ</Option>
-  </Delivery>
-  <WeightForDelivery>0,300</WeightForDelivery>
-  <LengthForDelivery>15</LengthForDelivery>
-  <WidthForDelivery>12</WidthForDelivery>
-  <HeightForDelivery>8</HeightForDelivery>
-  </Ad>
-  <Ad>
-    <Id>new-10366</Id>
-    <AvitoId>8449716380</AvitoId>
-    <Category>Аудио и видео</Category>
-    <GoodsType>Наушники</GoodsType>
-    <Title>Наушники Sony WF-1000XM5 Smoky Pink</Title>
-    <Description><![CDATA[<p><strong>💰 САМОВЫВОЗ В МОСКВЕ — СКИДКА 4%!</strong></p><p>Новый оригинальный товар в заводской упаковке, в наличии. Цена актуальна, гарантия 12 месяцев, отправляем в течение суток. Можно заказать с Авито Доставкой или забрать самовывозом со скидкой 4%.</p><p>Есть вопросы по товару, комплектации или наличию? Напишите в чат, ответим в течение нескольких минут.</p><p><strong>✔ Только оригинальные товары.</strong> Новые, в заводской упаковке, цена актуальная.</p><p><strong>✔ Гарантия 12 месяцев</strong> на всю технику.</p><p><strong>🚚 Доставка через Авито Доставку.</strong><br />Отправляем в течение суток в пункты выдачи Авито, Яндекс и СДЭК. Почтой России и в другие пункты не отправляем.</p><p><strong>💰💰💰 САМОВЫВОЗ — СКИДКА 4% 💰💰💰</strong><br /><strong>📍 Москва, ул. Барклая, 8, 4 этаж, офис 498 (метро Багратионовская).</strong><br />Напишите нам заранее, и мы подготовим заказ к вашему приезду.</p><p>Магазин «По честному»: оригинальная техника, честные цены и понятные условия. Пишите, ответим быстро и поможем с выбором.</p>]]></Description>
-    <Price>15590</Price>
-    <Address>Москва, улица Баркла, дом 8, офис 498</Address>
-    <Images>
-    <Image url="https://po4estnomu.ru/pictures/product/big/12489_big.jpg"/>
-    <Image url="https://po4estnomu.ru/pictures/product/big/12490_big.jpg"/>
-    <Image url="https://po4estnomu.ru/pictures/product/big/12491_big.jpg"/>
-    <Image url="https://po4estnomu.ru/pictures/product/big/12492_big.jpg"/>
-    <Image url="https://po4estnomu.ru/pictures/product/big/12493_big.jpg"/>
-    </Images>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-  <Vendor>Sony</Vendor>
   <ContactPhone>+79268850783</ContactPhone>
   <ManagerName>Алексей</ManagerName>
   <NoDocuments>Подтверждаю</NoDocuments>
@@ -3949,7 +3951,7 @@
     <GoodsType>Наушники</GoodsType>
     <Title>Наушники Sennheiser Momentum True Wireless 4 Denim</Title>
     <Description><![CDATA[<p><strong>💰 САМОВЫВОЗ В МОСКВЕ — СКИДКА 4%!</strong></p><p>Новый оригинальный товар в заводской упаковке, в наличии. Цена актуальна, гарантия 12 месяцев, отправляем в течение суток. Можно заказать с Авито Доставкой или забрать самовывозом со скидкой 4%.</p><p>Есть вопросы по товару, комплектации или наличию? Напишите в чат, ответим в течение нескольких минут.</p><p><strong>✔ Только оригинальные товары.</strong> Новые, в заводской упаковке, цена актуальная.</p><p><strong>✔ Гарантия 12 месяцев</strong> на всю технику.</p><p><strong>🚚 Доставка через Авито Доставку.</strong><br />Отправляем в течение суток в пункты выдачи Авито, Яндекс и СДЭК. Почтой России и в другие пункты не отправляем.</p><p><strong>💰💰💰 САМОВЫВОЗ — СКИДКА 4% 💰💰💰</strong><br /><strong>📍 Москва, ул. Барклая, 8, 4 этаж, офис 498 (метро Багратионовская).</strong><br />Напишите нам заранее, и мы подготовим заказ к вашему приезду.</p><p>Магазин «По честному»: оригинальная техника, честные цены и понятные условия. Пишите, ответим быстро и поможем с выбором.</p>]]></Description>
-    <Price>17254</Price>
+    <Price>17774</Price>
     <Address>Москва, улица Баркла, дом 8, офис 498</Address>
     <Images>
     <Image url="https://po4estnomu.ru/pictures/product/big/17795_big.jpg"/>
@@ -8106,7 +8108,7 @@
     <GoodsType>Наушники</GoodsType>
     <Title>Наушники Nothing Headphone (1) Black</Title>
     <Description><![CDATA[<p><strong>💰 САМОВЫВОЗ В МОСКВЕ — СКИДКА 4%!</strong></p><p>Новый оригинальный товар в заводской упаковке, в наличии. Цена актуальна, гарантия 12 месяцев, отправляем в течение суток. Можно заказать с Авито Доставкой или забрать самовывозом со скидкой 4%.</p><p>Есть вопросы по товару, комплектации или наличию? Напишите в чат, ответим в течение нескольких минут.</p><p><strong>✔ Только оригинальные товары.</strong> Новые, в заводской упаковке, цена актуальная.</p><p><strong>✔ Гарантия 12 месяцев</strong> на всю технику.</p><p><strong>🚚 Доставка через Авито Доставку.</strong><br />Отправляем в течение суток в пункты выдачи Авито, Яндекс и СДЭК. Почтой России и в другие пункты не отправляем.</p><p><strong>💰💰💰 САМОВЫВОЗ — СКИДКА 4% 💰💰💰</strong><br /><strong>📍 Москва, ул. Барклая, 8, 4 этаж, офис 498 (метро Багратионовская).</strong><br />Напишите нам заранее, и мы подготовим заказ к вашему приезду.</p><p>Магазин «По честному»: оригинальная техника, честные цены и понятные условия. Пишите, ответим быстро и поможем с выбором.</p>]]></Description>
-    <Price>18190</Price>
+    <Price>19334</Price>
     <Address>Москва, улица Баркла, дом 8, офис 498</Address>
     <Images>
     <Image url="https://po4estnomu.ru/pictures/product/big/18278_big.jpg"/>
@@ -8194,27 +8196,6 @@
   <LengthForDelivery>25</LengthForDelivery>
   <WidthForDelivery>15</WidthForDelivery>
   <HeightForDelivery>10</HeightForDelivery>
-  </Ad>
-  <Ad>
-    <Id>new-08394</Id>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Флешки и карты памяти</GoodsType>
-    <GoodsSubType>Карты памяти</GoodsSubType>
-    <Title>Карта памяти microSDXC SanDisk Ultra 128GB A1</Title>
-    <Description><![CDATA[<p><strong>💰 САМОВЫВОЗ В МОСКВЕ — СКИДКА 4%!</strong></p><p>Новый оригинальный товар в заводской упаковке, в наличии. Цена актуальна, гарантия 12 месяцев, отправляем в течение суток. Можно заказать с Авито Доставкой или забрать самовывозом со скидкой 4%.</p><p>Есть вопросы по товару, комплектации или наличию? Напишите в чат, ответим в течение нескольких минут.</p><p><strong>✔ Только оригинальные товары.</strong> Новые, в заводской упаковке, цена актуальная.</p><p><strong>✔ Гарантия 12 месяцев</strong> на всю технику.</p><p><strong>🚚 Доставка через Авито Доставку.</strong><br />Отправляем в течение суток в пункты выдачи Авито, Яндекс и СДЭК. Почтой России и в другие пункты не отправляем.</p><p><strong>💰💰💰 САМОВЫВОЗ — СКИДКА 4% 💰💰💰</strong><br /><strong>📍 Москва, ул. Барклая, 8, 4 этаж, офис 498 (метро Багратионовская).</strong><br />Напишите нам заранее, и мы подготовим заказ к вашему приезду.</p><p>Магазин «По честному»: оригинальная техника, честные цены и понятные условия. Пишите, ответим быстро и поможем с выбором.</p>]]></Description>
-    <Price>3630</Price>
-    <Address>Москва, улица Баркла, дом 8, офис 498</Address>
-    <Images>
-    <Image url="https://po4estnomu.ru/pictures/product/big/18448_big.jpg"/>
-    <Image url="https://po4estnomu.ru/pictures/product/big/18449_big.jpg"/>
-    <Image url="https://po4estnomu.ru/pictures/product/big/18450_big.jpg"/>
-    </Images>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-  <Vendor>SanDisk</Vendor>
-  <ContactPhone>+79268850783</ContactPhone>
-  <ManagerName>Алексей</ManagerName>
-  <NoDocuments>Подтверждаю</NoDocuments>
   </Ad>
   <Ad>
     <Id>new-08396</Id>
